@@ -1,6 +1,6 @@
 {
   "name": "sesshin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "sesshin - zazen intense meditation",
   "main": "index.js",
   "scripts": {
