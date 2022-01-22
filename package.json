@@ -1,0 +1,22 @@
+{
+  "name": "sesshin",
+  "version": "1.0.0",
+  "description": "sesshin - zazen intense meditation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/new-work-order/sesshin.git"
+  },
+  "keywords": [
+    "@dosy"
+  ],
+  "author": "@dosy",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/new-work-order/sesshin/issues"
+  },
+  "homepage": "https://github.com/new-work-order/sesshin#readme"
+}
