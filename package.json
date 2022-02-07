@@ -1,5 +1,5 @@
 {
-  "name": "wave.js",
+  "name": "wavefinder",
   "version": "1.0.3",
   "description": "JS canvas <-> audio element visualizer",
   "main": "index.js",
