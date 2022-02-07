@@ -1,6 +1,6 @@
 {
   "name": "wave.js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "JS canvas <-> audio element visualizer",
   "main": "index.js",
   "scripts": {
