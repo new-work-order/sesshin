@@ -1,7 +1,7 @@
 {
-  "name": "sesshin",
+  "name": "wave.js",
   "version": "1.0.1",
-  "description": "sesshin - zazen intense meditation",
+  "description": "JS canvas <-> audio element visualizer",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
