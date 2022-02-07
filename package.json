@@ -1,6 +1,6 @@
 {
   "name": "wavefinder",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "JS canvas <-> audio element visualizer",
   "main": "index.js",
   "scripts": {
